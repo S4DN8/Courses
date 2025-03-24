@@ -1,1 +1,1 @@
-# Courses
+# UniverseDB
